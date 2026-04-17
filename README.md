@@ -1,4 +1,4 @@
-# Sure Tomorrow: Insurance Data Obfuscation
+# Sure Tomorrow: Insurance Data Obfuscation Model
 
 ## About
 
